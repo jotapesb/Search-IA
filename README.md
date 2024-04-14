@@ -1,8 +1,8 @@
-# Introdução
+# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 Vamos imaginar que você trabalha para a Fourth Coffee, uma rede nacional de cafés. Você foi solicitado a ajudar a criar uma solução de mineração de conhecimento que facilite a busca de insights sobre as experiências dos clientes. Você decide criar um índice do Azure AI Search usando dados extraídos de avaliações de clientes.
 
-# PASSO 1
+## Passo 1
 
 Na página inicial do Azure vá na lupa e procure search, logo em seguida irá aparecer 'Pesquisa de IA'
 
@@ -20,7 +20,7 @@ Após criar sua implantação estará concluída com sucesso.
 
 ![ai4](https://github.com/jotapesb/Search-IA/assets/147784947/ef09713a-c93e-4756-9bf0-98cde5b66a57)
 
-# Passo 2
+## Passo 2
 
 Após implantação concluída, vá em 'criar um recurso'.
 
@@ -38,7 +38,7 @@ Aguarde alguns segundos e a implantação de Serviços Cognitivos foi concluída
 
 ![ai8](https://github.com/jotapesb/Search-IA/assets/147784947/00fbe5a7-ce2b-42a9-9673-cf5d6c5a0e57)
 
-# Passo 3
+## Passo 3
 
 Agora é necessário criar uma conta de armazenamento.
 
@@ -74,7 +74,7 @@ Após criar o container clique em coffereviews em baixo de $logs, vá em Carrega
 
 ![a15](https://github.com/jotapesb/Search-IA/assets/147784947/33f08e39-a0d7-410e-94c0-e59a16be9716)
 
-# Passo 4
+## Passo 4
 
 Após criar todos esses serviços volte em 'Pesquisa de IA', clique na implantação criada e faça a importação dos dados. 
 
